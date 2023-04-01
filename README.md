@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Apoorv Bansal
+### Hi 👋, I'm Apoorv Bansal
+#### 
 
 
 <!--
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Apoorv Bansal</h1>
+[![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-binary-data-futuristic-artificial-intelligence-ai-deep-brain-representing-algorithm-154741982.jpg)]()
+<h1 align="center">Turning dreams to reality</h1>
 <h3 align="center">A passionate and enthusiastic learner.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkld8v5ZLE1ayNdwm5DgDzlbSb0ax96TAyQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalapoorv29&label=Profile%20views&color=0a8bdb&style=flat" alt="bansalapoorv29" /> </p>
